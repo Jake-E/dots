@@ -17,10 +17,15 @@ export casks = (
     firefox
     telegram
     sequel-ace
+    adobe-creative-cloud
 )
 
 export formulae = (
     nvm
+    k9s
+    openfortivpn
+    kubectl
+    fluxctl
 )
 
 # Install casks
