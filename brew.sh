@@ -18,6 +18,8 @@ export casks = (
     telegram
     sequel-ace
     adobe-creative-cloud
+    rapidapi
+    microsoft-excel
 )
 
 export formulae = (
