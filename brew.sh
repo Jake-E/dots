@@ -20,6 +20,7 @@ export casks = (
     adobe-creative-cloud
     rapidapi
     microsoft-excel
+    openlens
 )
 
 export formulae = (
@@ -28,6 +29,7 @@ export formulae = (
     openfortivpn
     kubectl
     fluxctl
+    kubeseal
 )
 
 # Install casks
