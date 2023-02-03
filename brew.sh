@@ -28,7 +28,7 @@ export formulae = (
     k9s
     openfortivpn
     kubectl
-    fluxctl
+    fluxcd/tap/flux
     kubeseal
 )
 
